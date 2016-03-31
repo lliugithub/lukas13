@@ -1,5 +1,6 @@
 /**
  * Hier ist die Dokumentation zu Beispiel 1
+ * git@github.com:lliugithub/lukas13.git
  * @author Larry Liu
  * @version 31-03-2016
  */
