@@ -1,3 +1,9 @@
+/**
+ * Hier ist die Dokumentation zu Beispiel 1
+ * @author Larry Liu
+ * @version 31-03-2016
+ */
+
 public class FibonacciLukas {
 
 	static int lucasberechnen(int x) {
