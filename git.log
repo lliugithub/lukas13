@@ -1,0 +1,33 @@
+commit 25f904f79e39d3feb6f446c079f77e02badbd2e8
+Author: larry liu <larry.liu@aol.de>
+Date:   Thu Mar 31 11:05:13 2016 +0200
+
+    added github address
+
+ src/FibonacciLukas.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 242ea9c88ffeaad3061e628c79c7507ce8be0da8
+Author: larry liu <larry.liu@aol.de>
+Date:   Thu Mar 31 11:03:24 2016 +0200
+
+    finish2
+
+ src/FibonacciLukas.java | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 780d557986bc9d94f01730d0b1e9088c34a7b7e5
+Author: larry liu <larry.liu@aol.de>
+Date:   Thu Mar 31 11:01:03 2016 +0200
+
+    finish
+
+ .classpath                           |  8 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 ++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 ++++++++
+ src/Check1.java                      | 24 ++++++++++++++++
+ src/Check2.java                      | 26 +++++++++++++++++
+ src/FibonacciLukas.java              | 54 ++++++++++++++++++++++++++++++++++++
+ src/TestSuite.java                   | 33 ++++++++++++++++++++++
+ 8 files changed, 174 insertions(+)
